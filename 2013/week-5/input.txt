@@ -1,0 +1,25 @@
+0: Bob
+1: John
+2: Jane
+3: Tom
+4: Greg
+5: Jim
+6: Penny
+
+0:son:1
+0:wife:2
+0:son:3
+1:father:0
+1:mother:2
+1:brother:3
+1:friend:4
+2:husband:0
+2:son:1
+2:son:3
+3:father:0
+3:brother:1
+3:mother:2
+4:friend:1
+4:friend:2
+4:friend:5
+5:friend:4

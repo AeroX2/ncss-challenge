@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 
 divisions = int(input("Divisions: "))
 divisible_by = []

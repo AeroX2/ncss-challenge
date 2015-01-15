@@ -1,0 +1,11 @@
+home 54
+the 102
+dinner 36
+zap 5
+gone 31
+tie 44
+war 73
+good 25
+dimmer 2
+hood 18
+was 72

@@ -1,0 +1,6 @@
+cheese,4
+bacon,5
+lettuce,1
+brussels sprouts,5
+pickles,3
+tomato,2

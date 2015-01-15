@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#!/usr/bin/python3
+
 import math
 def is_kaprekar(num):
 	kaprekar = num == 1

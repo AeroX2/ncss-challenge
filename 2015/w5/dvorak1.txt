@@ -1,0 +1,37 @@
+The Dvorak layout was designed to replace the QWERTY keyboard layout (the de
+facto standard keyboard layout, so named for the starting letters in the top
+row), in which keys are arranged to avoid mechanical jams on the first
+generation of economically successful typewriters. The original QWERTY
+keyboard suffers from many problems that Dvorak himself identified:
+Many common letter combinations require awkward finger motions.
+Many common letter combinations are typed with the same finger.
+Many common letter combinations require a finger to jump over the home row.
+Many common letter combinations are typed with one hand while the other sits
+idle.
+Most typing is done with the left hand, which for most people is the weaker
+hand.
+Many common letter combinations are typed by adjacent fingers, which is slower
+than using other fingers.
+About 30% of typing is done on the lower row, which is the slowest and most
+difficult row to reach.
+About 52% of keyboard strokes are done in the top row, requiring the fingers
+to travel away from the home row most of the time.
+Dvorak studied letter frequencies and the physiology of people’s hands and
+created a layout to alleviate the problems he identified with the QWERTY
+layout. The layout he created adheres to these principles:
+Letters should be typed by alternating between hands (which makes typing more
+rhythmic, increases speed, reduces error, and reduces fatigue).
+For maximum speed and efficiency, the most common letters and digraphs should
+be the easiest to type. This means that they should be on the home row, which
+is where the fingers rest, and under the strongest fingers (Thus, about 70% of
+keyboard strokes on the Dvorak Simplified Keyboard are done on the home row).
+The least common letters should be on the bottom row, which is the hardest row
+to reach.
+The right hand should do more of the typing, because most people are
+right-handed.
+Digraphs should not be typed with adjacent fingers.
+Stroking should generally move from the edges of the board to the middle. An
+observation of this principle is that, for many people, when tapping fingers
+on a table, it is easier going from little finger to index than vice versa.
+This motion on a keyboard is called inboard stroke flow.
+

@@ -1,0 +1,16 @@
+The piano is a musical instrument played by means of a keyboard. It is one of
+the most popular instruments in the world. Widely used in classical and jazz
+music for solo performances, ensemble use, chamber music and accompaniment,
+the piano is also very popular as an aid to composing and rehearsal. Although
+not portable and often expensive, the piano's versatility and ubiquity have
+made it one of the world's most familiar musical instruments.
+Pressing a key on the piano's keyboard causes a felt-covered hammer to strike
+steel strings. The hammers rebound, allowing the strings to continue vibrating
+at their resonant frequency. These vibrations are transmitted through a
+bridge to a sounding board that more efficiently couples the acoustic energy
+to the air. The sound would otherwise be no louder than that directly produced
+by the strings. When the key is released, a damper stops the string's
+vibration. See the article on Piano key frequencies for a picture of the piano
+keyboard and the location of middle-C. In the Hornbostel-Sachs system of
+instrument classification, pianos are considered chordophones.
+

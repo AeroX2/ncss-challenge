@@ -1,0 +1,22 @@
+<svg width="310px" height="70px" viewBox="0 0 310 70"  version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="310" height="70" fill="white" id="bg" />
+  <rect x="5" id="foo" y="5" width="300" height="60" fill="#d1dbdd" />
+  <g fill="white">
+    <rect id="s-0-0" x="45" y="5" width="40" height="20" />
+    <rect id="s-0-1" x="145" y="5" width="20" height="20" />
+    <rect id="s-0-2" x="205" y="5" width="20" height="20" />
+    <rect id="s-0-3" x="245" y="5" width="40" height="20" />
+
+    <g
+       stoke="none"
+       stroke-dasharray="2, 1, 2, 1"
+       >
+      <rect id="s-2-0"  x="5" y="45" width="20" height="20" />
+      <rect id="s-2-1" x="85" y="45" width="20" height="20" />
+      <rect id="s-2-2" x="205" y="45" width="20" height="20" fill="red" />
+    </g>
+  </g>
+  <g stroke-width="1" stroke="#999999" fill="none" >
+  </g>
+  <circle cx="0" r="10" cy="0" stroke="#bbbbbb" id="circle" stroke-width="5" fill="blue" />
+</svg>

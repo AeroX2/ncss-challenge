@@ -1,0 +1,11 @@
+cat <<!EOF > maze.txt
+164
+235
+466
+146
+!EOF
+echo Should be Invalid
+python3 ads.py <<!EOF
+4
+0,2 0,1 0,0 1,0
+!EOF
